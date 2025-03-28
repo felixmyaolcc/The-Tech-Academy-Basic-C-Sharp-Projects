@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|c:\\users\\oghenekohwof\\felix\\aolcc-assignments\\asp\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|solutionrelative:views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|c:\\users\\oghenekohwof\\felix\\aolcc-assignments\\asp\\carinsurance\\views\\insuree\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|solutionrelative:views\\insuree\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|c:\\users\\oghenekohwof\\felix\\aolcc-assignments\\asp\\carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|solutionrelative:controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|c:\\users\\oghenekohwof\\felix\\aolcc-assignments\\asp\\carinsurance\\views\\insuree\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB6551C-BAEC-42D7-98FE-5C7CE7F94DE3}|CarInsurance.csproj|solutionrelative:views\\insuree\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "RelativeToolTip": "Views\\Insuree\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T18:33:36.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Views\\Insuree\\Admin.cs",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Admin.cs",
+              "ToolTip": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Views\\Insuree\\Admin.cs",
+              "RelativeToolTip": "Views\\Insuree\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:31:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Views\\Insuree\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Views\\Insuree\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Views\\Insuree\\DefaultController.cs",
+              "RelativeToolTip": "Views\\Insuree\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:27:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\oghenekohwof\\Felix\\AOLCC-Assignments\\ASP\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeToolTip": "Controllers\\InsureeController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAUwL4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:53:20.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

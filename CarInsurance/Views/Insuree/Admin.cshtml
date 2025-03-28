@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<dynamic> 
+
+@{
+    ViewBag.Title = "Admin View";
+}
+
+<h2>Admin View</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email Address</th>
+            <th>Quote</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var insuree in Model)
+        {<!-- Correctly wrap the foreach loop -->
+            <tr>
+                <td>@insuree.FirstName</td>  <!-- Display First Name -->
+                <td>@insuree.LastName</td>   <!-- Display Last Name -->
+                <td>@insuree.EmailAddress</td> <!-- Display Email Address -->
+                <td>@insuree.Quote</td>      <!-- Display Quote -->
+            </tr>
+        }
+    </tbody>
+</table>
